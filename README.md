@@ -10,7 +10,7 @@
 
 ###
 
-<p data-importer="text" align="left">Projeto Aviasun: Drone Solar de Baixo Custo</p>
+- Projeto Aviasun: Drone Solar de Baixo Custo
 
 ###
 
